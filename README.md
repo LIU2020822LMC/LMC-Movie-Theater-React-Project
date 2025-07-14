@@ -144,14 +144,19 @@ npm run build
 
 1.创建 Appwrite 账户
 
-2. 创建新项目并获取 Project ID
+2.创建新项目并获取 Project ID
    
-3. 创建数据库并获取 Database ID
+3.创建数据库并获取 Database ID
    
-4. 创建集合并获取 Collection ID
+4.创建集合并获取 Collection ID
 
 5.为集合添加属性：
-◦ searchTerm (字符串)
-◦ count (整数)
-◦ movie_id (字符串)
-◦ poster_url (字符串)
+searchTerm (字符串)
+
+count (整数)
+
+movie_id (字符串)
+
+poster_url (字符串)
+
+
