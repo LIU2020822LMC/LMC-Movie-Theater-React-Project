@@ -160,4 +160,10 @@ movie_id (字符串)
 
 poster_url (字符串)
 
+## 📄 许可证
+
+本项目采用 [MIT 许可证](LICENSE) 授权。
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
