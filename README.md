@@ -151,6 +151,7 @@ npm run build
 4.创建集合并获取 Collection ID
 
 5.为集合添加属性：
+
 searchTerm (字符串)
 
 count (整数)
